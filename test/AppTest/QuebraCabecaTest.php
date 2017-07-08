@@ -1,9 +1,4 @@
 <?php
-    /**
-     * @author Cristiano Azevedo <cristianoazevedo@vivaweb.net>
-     * @version 1.0
-     */
-
     namespace AppTest;
 
     require __DIR__ . '/../../vendor/autoload.php';

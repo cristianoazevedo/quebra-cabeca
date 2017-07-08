@@ -1,0 +1,55 @@
+
+FILE: C:\tools\xampp\htdocs\quebra-cabeca\src\App\QuebraCabeca.php
+--------------------------------------------------------------------------------
+FOUND 24 ERROR(S) AND 4 WARNING(S) AFFECTING 24 LINE(S)
+--------------------------------------------------------------------------------
+   1 | ERROR   | End of line character is invalid; expected "\n" but found
+     |         | "\r\n"
+   2 | ERROR   | Missing file doc comment
+   9 | ERROR   | There must be exactly one blank line before the tags in class
+     |         | comments
+  10 | ERROR   | Missing @category tag in class comment
+  10 | ERROR   | Missing @author tag in class comment
+  10 | ERROR   | Missing @license tag in class comment
+  10 | ERROR   | Missing @link tag in class comment
+  16 | ERROR   | Private member variable "dimensoes" must be prefixed with an
+     |         | underscore
+  20 | ERROR   | Private member variable "imagens" must be prefixed with an
+     |         | underscore
+  24 | ERROR   | Private member variable "configuracoes" must be prefixed with
+     |         | an underscore
+  46 | ERROR   | There must be exactly one blank line before the tags in
+     |         | function comment
+  52 | WARNING | Line exceeds 85 characters; contains 94 characters
+  55 | WARNING | Line exceeds 85 characters; contains 99 characters
+  64 | ERROR   | There must be exactly one blank line before the tags in
+     |         | function comment
+  76 | WARNING | Line exceeds 85 characters; contains 122 characters
+  90 | ERROR   | There must be exactly one blank line before the tags in
+     |         | function comment
+  92 | ERROR   | Private method name "QuebraCabeca::limparImagensDoDiretorio"
+     |         | must be prefixed with an underscore
+  97 | ERROR   | There must be exactly one blank line before the tags in
+     |         | function comment
+  99 | ERROR   | Private method name "QuebraCabeca::verificarDiretorio" must be
+     |         | prefixed with an underscore
+ 106 | ERROR   | There must be exactly one blank line before the tags in
+     |         | function comment
+ 113 | ERROR   | There must be exactly one blank line before the tags in
+     |         | function comment
+ 120 | ERROR   | There must be exactly one blank line before the tags in
+     |         | function comment
+ 122 | ERROR   | Private method name "QuebraCabeca::salvarSessao" must be
+     |         | prefixed with an underscore
+ 143 | ERROR   | Missing comment for param "$dados" at position 1
+ 143 | ERROR   | There must be exactly one blank line before the tags in
+     |         | function comment
+ 168 | WARNING | Line exceeds 85 characters; contains 108 characters
+ 188 | ERROR   | There must be exactly one blank line before the tags in
+     |         | function comment
+ 195 | ERROR   | There must be exactly one blank line before the tags in
+     |         | function comment
+--------------------------------------------------------------------------------
+
+Time: 0 seconds, Memory: 3.00Mb
+

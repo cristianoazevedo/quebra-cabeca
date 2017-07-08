@@ -32,7 +32,7 @@
             $args = func_get_args();
 
             $parametros = $args[0];
-            
+
             if (isset($parametros['de']) && isset($parametros['para'])) {
                 \Webdev\App\QuebraCabeca::reorganizar($parametros);
                 $parametros = [];
